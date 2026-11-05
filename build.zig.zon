@@ -1,0 +1,14 @@
+.{
+    .name = .jmu,
+    .version = "0.1.0",
+    .fingerprint = 0x4a3d07bd2c7ad6fb,
+    .minimum_zig_version = "0.17.0",
+    .dependencies = .{},
+    .paths = .{
+        "src",
+        "LICENSE",
+        "build.zig",
+        "build.zig.zon",
+        "README.markdown",
+    },
+}
